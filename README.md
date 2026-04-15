@@ -25,7 +25,7 @@ Step 4:Else if year is divisible by 4 AND not divisible by 100
             ( Display Leap year )
 Step 5:Else ( Display not a leap year )
 Step 6:Display result
-Step 9: End  
+Step 7: End  
 
 ## Code
 #include<stdio.h>
